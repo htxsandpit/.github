@@ -7,7 +7,7 @@ Welcome to the HTX Sandpit Public Demo Repository.  This repository was created 
 
 Below is a listing of the solutions available for use. These solution are meant for demonstration purposes only. 
 
-| Demo Name | Azure Commercial Cloud | GCC 1.0 | GCC 2.0 |
+| Demo Name | HTX Sandpit | GCC 1.0 | GCC 2.0 |
 | --------- | :---: | :----: | :---: |
 | []() | :heavy_check_mark: | | |
 
